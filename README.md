@@ -2,8 +2,8 @@
 
 <p align="center">
 🎓 Master's in Data Science @ Illinois Institute of Technology, Chicago<br>
-📊 Aspiring Data Analyst / Data Scientist | ML, NLP & BI Enthusiast<br>
-💼 Passionate about solving real-world business problems using data<br>
+📊 Aspiring Data Analyst / Data Scientist | Machine Learning Enthusiast<br>
+💼 Actively seeking summer/ fall 2025 opportunities<br>
 📫 <a href="mailto:rladdha@hawk.iit.edu">rladdha@hawk.iit.edu</a> • 
 <a href="https://www.linkedin.com/in/rounak-laddha/">LinkedIn</a> • 
 <a href="https://github.com/Rounakladdha8">GitHub</a>
