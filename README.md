@@ -13,9 +13,7 @@
 
 ### 🧠 About Me
 
-I'm a data science graduate student passionate about building real-world solutions with measurable business impact. My focus lies in developing intelligent systems using machine learning, data analytics, and NLP to solve high-impact problems in domains like retail, e-commerce, and HR tech.
-
-I enjoy turning raw data into actionable insights, whether through forecasting, recommender systems, or explainable ML models.
+I'm a data science graduate student passionate about building real-world solutions with measurable business impact. My focus lies in developing intelligent systems using machine learning, data analytics, and NLP to solve high-impact problems. I enjoy turning raw data into actionable insights, whether through forecasting, recommender systems, or explainable ML models.
 
 ---
 
