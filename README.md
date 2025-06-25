@@ -54,5 +54,11 @@ Microsoft Office Suite (Excel, Word, PowerPoint, Outlook), Google Colab, Jupyter
 - 📊 **[Customer Segmentation (SQL)](https://github.com/Rounakladdha8/customer-segmentation-ecommerce-sql)**
 
 ---
+---
+
+### 📄 Resume
+
+You can view/download my latest resume here:  
+👉 [Rounak_Laddha_Resume.pdf](https://github.com/Rounakladdha8/Rounakladdha8/blob/main/RounakLaddha_resume-1_new.pdf)
 
 ---
