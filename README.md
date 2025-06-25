@@ -44,5 +44,15 @@ Microsoft Office Suite (Excel, Word, PowerPoint, Outlook), Google Colab, Jupyter
 
 
 ---
+---
+
+### 🚀 Featured Projects
+
+- 🛡️ **[Credit Card Fraud Detection](https://github.com/Rounakladdha8/credit-card-fraud-detection-shap-xgboost)**
+- 📄 **[Smart Resume Parser](https://github.com/Rounakladdha8/smart-resume-parser)**
+- 🛒 **[Walmart Inventory Forecasting](https://github.com/Rounakladdha8/walmart-inventory-forecasting)**
+- 📊 **[Customer Segmentation (SQL)](https://github.com/Rounakladdha8/customer-segmentation-ecommerce-sql)**
+
+---
 
 ---
