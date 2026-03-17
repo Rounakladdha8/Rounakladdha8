@@ -59,6 +59,6 @@ Microsoft Office Suite (Excel, Word, PowerPoint, Outlook), Google Colab, Jupyter
 ### 📄 Resume
 
 You can view/download my latest resume here:  
-👉 [Rounak_Laddha_Resume.pdf](https://github.com/Rounakladdha8/resume/blob/main/RounakLaddha_resume_NEW.pdf)
+👉 [Rounak_Laddha_Resume.pdf](https://github.com/Rounakladdha8/resume/blob/main/Rounak_cv.pdf)
 
 ---
